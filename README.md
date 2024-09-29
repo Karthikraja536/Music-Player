@@ -5,8 +5,11 @@ A sleek and user-friendly Python music player with playlist support. This projec
 __Features__
 
 1.Playlist Creation & Management: Easily create, edit, and manage your playlists.
+
 2.Playback Controls: Play, pause/unpause, skip to the next or previous track with a single button.
+
 3.Merged Pause/Unpause Button: Simplified controls for smoother user experience.
+
 4.Colorful, Intuitive GUI: A visually appealing and easy-to-navigate interface.
 
 __Screenshots__
@@ -28,6 +31,7 @@ git clone https://github.com/Karthikraja536/music-player.git
 cd music-player
 
 Install the required dependencies:
+
 pip install -r requirements.txt
 
 Run the music player:
@@ -36,11 +40,15 @@ python music_player.py
 __Usage__
 
 1.Add Songs to Playlist: Browse and add songs to your playlist.
+
 2.Playback Control: Use the play, pause/unpause, next, and previous buttons to control your music.
+
 3.Playlist Management: Easily switch between songs or load a new playlist.
 
 __Built With__
 
 1.Python: Core programming language.
+
 2.Tkinter: For building the GUI.
+
 3.Pygame: For managing music playback.
