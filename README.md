@@ -20,7 +20,7 @@ Required dependencies (listed in requirements.txt)
 
 Installation
 Clone this repository:
-git clone https://github.com/yourusername/music-player.git
+git clone https://github.com/Karthikraja536/music-player.git
 cd music-player
 
 Install the required dependencies:
