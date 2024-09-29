@@ -1,0 +1,2 @@
+pygame
+# tkinter is included with Python and does not need to be installed separately
