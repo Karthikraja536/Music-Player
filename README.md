@@ -7,7 +7,7 @@ Features
 3.Merged Pause/Unpause Button: Simplified controls for smoother user experience.
 4.Colorful, Intuitive GUI: A visually appealing and easy-to-navigate interface.
 
-Screenshots
+__Screenshots__
 
 ![image](https://github.com/user-attachments/assets/3c0d8351-8867-4d46-b733-16f6b624f4d1)
 
