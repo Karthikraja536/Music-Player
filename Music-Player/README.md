@@ -14,12 +14,12 @@ A sleek and user-friendly Python music player with playlist support. This projec
 4.Colorful, Intuitive GUI: A visually appealing and easy-to-navigate interface.
 
 
-__Screenshots__
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/3c0d8351-8867-4d46-b733-16f6b624f4d1)
 
 
-__Getting Started__
+## Getting Started
 
 Prerequisites
 
