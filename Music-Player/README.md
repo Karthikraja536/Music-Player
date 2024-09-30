@@ -1,4 +1,4 @@
-__🎶 Smart Music Player with Playlist__
+# 🎶 Smart Music Player with Playlist
 
 A sleek and user-friendly Python music player with playlist support. This project features an intuitive GUI with essential playback controls for a seamless audio experience. Ideal for anyone looking to manage and enjoy their music efficiently.
 
