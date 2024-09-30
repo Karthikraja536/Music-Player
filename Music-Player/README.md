@@ -30,24 +30,24 @@ Python 3.x
 Required dependencies (listed in requirements.txt)
 
 
-__Installation__
+## Installation
 
-Clone this repository:
+### Clone this repository:
 
 git clone https://github.com/Karthikraja536/music-player.git
 
 cd music-player
 
-Install the required dependencies:
+### Install the required dependencies:
 
 pip install -r requirements.txt
 
-Run the music player:
+### Run the music player:
 
 python music_player.py
 
 
-__Usage__
+## Usage
 
 1.Add Songs to Playlist: Browse and add songs to your playlist.
 
@@ -56,7 +56,7 @@ __Usage__
 3.Playlist Management: Easily switch between songs or load a new playlist.
 
 
-__Built With__
+## Built With
 
 1.Python: Core programming language.
 
